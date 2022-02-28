@@ -5,7 +5,7 @@ This repository contains data and examples for reproducing the results presented
 In this paper, we introduce a new architecture (called B-CNN) in the context of profiled SCA, which embeds the product combination of leakage into neural networks. We show that B-CNN performs systematically better (w.r.t. the number of attack traces) than the current state-of-the-art results on all the investigated datasets (protected with masking countermeasure). 
 
 <div align="center">
-	<img src="https://github.com/loccs-cp/Bilinear-CNN-for-SCA/raw/main/figures/B-CNN.jpg" alt="Editor" width="600">
+	<img src="https://github.com/loccs-cp/Bilinear-CNN-for-SCA/raw/main/figure/B-CNN.jpg" alt="Editor" width="600">
 </div>
 
 ## Datasets
