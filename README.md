@@ -28,6 +28,6 @@ This repository is composed of the following folders and script:
 
 - **./Data:** the dataset (.npy format) used in the experiments. 
 - **./models**: contains the trained model.
-- **./\*.ipynb**: the notebook file that contains both codes and outputs. This notebook demonstrates how to load a dataset, how to pre-process the data, how to perform adversarial training, and how to evaluate the models, etc.
+- **./\*.ipynb**: the notebook file that contains both codes and outputs. This notebook demonstrates how to load a dataset, how to pre-process the data, how to train B-CNN, how to evaluate the model, and how to calculate the LWC， etc.
 
 Note: If you cannot open the '*.ipynb' notebook in Github, please try to open it using the nbviewer online: [https://nbviewer.org/github/loccs-cp/Bilinear-CNN-for-SCA/blob/main/](https://nbviewer.org/github/loccs-cp/Bilinear-CNN-for-SCA/blob/main/)
